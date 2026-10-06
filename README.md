@@ -1,3 +1,8 @@
+> ### My Contribution - Data Engineer / Packaging (Group 36 - Team Syntatix)
+> Role: Data Engineer / Packaging | Score: 93.1% | Northstar Sprint
+> I engineered and packaged the offline dataset for Order Status, Returns & Refunds, Stock Availability.
+> Validated JSON dataset powering src/chatbot.py (no API keys - offline)
+> Original: MakurWai-ajokNyidier/GROUP36 - Power Learn Project
 # Northstar Support Deflection MVP
 
 **Group 36 — Team Syntatix | Power Learn Project | The Northstar Sprint**
